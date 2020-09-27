@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">FormThisForMe App</string>
+
+    <string name="spin">Selecciona</string>
+    <string-array name="spinnerItems">
+        <item>Masculino</item>
+        <item>Femenino</item>
+    </string-array>
+
+    <string name="title">Formulario</string>
+    <string name="title2">Información básica de estudiante de ISC</string>
+    <string name="name_hint">Escribe tu nombre</string>
+    <string name="surname_hint">Escribe tu apellido</string>
+    <string name="genre">Genero:</string>
+    <string name="birth">Nacimiento:</string>
+    <string name="question">Le gusta programar?</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="lang">Lenguages:</string>
+    <string name="java">Java</string>
+    <string name="js">JS</string>
+    <string name="c_c">C/C++</string>
+    <string name="python">Python</string>
+    <string name="go_land">Go Land</string>
+    <string name="c">C #</string>
+    <string name="enviar">Enviar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="response">Tu respuesta ha sido enviada</string>
+    <string name="detailed_info">Información detallada:</string>
+    <string name="thankyou">¡Gracias por ayudarnos!</string>
+    <string name="nuevo_formulario">Nuevo formulario</string>
+
+    <string name="rights">20130553 - Primera asignación - Temas Especiales - Agosto 2020</string>
+
+</resources>
